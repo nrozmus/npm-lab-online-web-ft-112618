@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/nrozmus/npm-lab-online-web-ft-112618/issues"
   },
-  "homepage": "https://github.com/nrozmus/npm-lab-online-web-ft-112618#readme"
+  "homepage": "https://github.com/nrozmus/npm-lab-online-web-ft-112618#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.24"
+  }
 }
