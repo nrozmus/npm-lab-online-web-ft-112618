@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-online-web-ft-112618",
+  "version": "1.0.0",
+  "description": "test package by nick",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrozmus/npm-lab-online-web-ft-112618.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrozmus/npm-lab-online-web-ft-112618/issues"
+  },
+  "homepage": "https://github.com/nrozmus/npm-lab-online-web-ft-112618#readme"
+}
